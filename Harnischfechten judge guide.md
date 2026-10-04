@@ -66,7 +66,7 @@ Sędzia nie rozdziela zawodników podczas zapasów ani walki w parterze.
 
 **[Do dalszej dyskusji]** Propozycja: wprowadzić limit czasu walki w parterze.
 
-## Zbroja
+## Uzbrojenie
 
 <Opisz wymagane wyposażenie ochronne oraz kto i kiedy sprawdza je przed walką.>
 
@@ -96,17 +96,17 @@ Sędzia nie rozdziela zawodników podczas zapasów ani walki w parterze.
 
 - Hełm wielki jest dopuszczony.
 - Durszlak jest dopuszczony wyłącznie w głębokiej, historycznej formie.
-- Krata polska jest dopuszczona tylko z dodatkową nowoczesną siatką ochronną; cała osłonięta nią strefa twarzy jest punktowana.
-- Hełm z nosalem jest dopuszczony tylko z dodatkową nowoczesną siatką ochronną; cała osłonięta nią strefa twarzy jest punktowana.
+- Krata polska jest dopuszczona tylko z dodatkową nowoczesną siatką ochronną.
+- Hełm z nosalem jest dopuszczony tylko z dodatkową nowoczesną siatką ochronną.
 - Salada jest dopuszczona tylko wtedy, gdy zawiera maskę szermierczą.
 - Pasek mocujący hełm do napierśnika nie jest wymagany, ale jest zalecany.
 - Ruchoma zasłona musi być zabezpieczona przed otwarciem, a otwory hełmu muszą uniemożliwiać wejście sztychu.
 
-Twarz widoczna przez perforowaną zasłonę lub siatkową maskę szermierczą jest nieosłonięta i pozostaje strefą punktowaną; nie klasyfikuje się jej jak płyty hełmu.
+Siatkowa maska szermiercza ani perforowana zasłona nie osłania twarzy na potrzeby punktacji; cała osłonięta nimi strefa twarzy pozostaje punktowana.
 
 ### Ochrona szyi
 
-Zaleca się noszenie kołnierza kolczego pod napierśnikiem. Kolczuga osłaniająca szyję musi być zamocowana tak, by nie odsłaniała jej podczas walki.
+Wymagany jest kołnierz kolczy. Zaleca się noszenie go pod napierśnikiem, tak by nie odsłaniał szyi podczas walki.
 
 ### Ochrona tułowia
 
@@ -129,6 +129,36 @@ Obowiązkowe są rękawice oraz osłony łokci i kolan. Osłony ramion, przedram
 ### Ochrona krocza
 
 Ochrona krocza jest obowiązkowa. Dopuszczony i zalecany jest nowoczesny suspensor sportowy; uznawane są również historyczne osłony płytowe.
+
+### Broń drzewcowa
+
+Do walki dopuszcza się bezpieczne symulatory broni drzewcowej, takie jak poleaxe lub młot lucereński. Drzewiec wykonuje się z drewna; jego przekrój nie może być kwadratowy, a zalecany jest przekrój okrągły lub wielokątny. Broń nie może być dłuższa niż wzrost walczącego plus 20 cm. Głowica musi być wykonana z bezpiecznego materiału, a sztych przeznaczony do pchnięć musi się uginać i być zabezpieczony.
+
+Jeśli na końcu drzewca brakuje tylca (butt spike) lub bezpiecznej nakładki, koniec ten uznaje się w punktacji za ostry i może on służyć do zdobycia punktu.
+
+**[Do dalszej dyskusji]** Rozważyć restrykcyjne wymagania symetrii broni drzewcowej.
+
+**[Do dalszej dyskusji]** Ustalić, czy dopuszczać udział z bronią bez tylca oraz czy jej zakończenie musi być historyczne, czy może być bezpiecznym odbojnikiem, na przykład typu IKEA.
+
+### Miecz
+
+Miecz musi być sztywny i tępy, a jego sztych zabezpieczony trwałą nakładką, która nie odczepi się podczas walki. Miecze syntetyczne są dozwolone, jeśli obaj walczący używają mieczy tego samego typu.
+
+Krawędź miecza musi mieć co najmniej 2 mm grubości. Dopuszcza się następujące sztychy:
+
+- płaski sztych ze zgrubieniem;
+- sztych o promieniu co najmniej równym promieniowi monety 5 zł;
+- sztych zawinięty i odpuszczony po hartowaniu.
+
+Sztychy zawinięte przed hartowaniem są niedopuszczone, ponieważ mogą pękać.
+
+### Puginał
+
+Dopuszcza się symulatory puginałów drewniane lub syntetyczne.
+
+**[Do dalszej dyskusji]** Ustalić, czy dopuszczać określone typy puginałów metalowych.
+
+**[Do dalszej dyskusji]** Ustalić, czy dopuszczać syntetyczne puginały o dużym ugięciu, które utrudnia sędziom rozpoznanie trafienia.
 
 ### Kontrola i dopasowanie
 
