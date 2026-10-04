@@ -210,6 +210,8 @@ Kolczuga używana jako główna lub jedyna ochrona tyłu kolana, dłoni, krocza 
 
 <Opisz, czy punktuje działanie rozpoczęte przed sygnałem kończącym walkę, ale zakończone po nim.>
 
+**[Do dalszej dyskusji]** Ustalić, czy i jak punktować trafienie przeciwnika rzuconym mieczem lub bronią drzewcową, użytymi jak oszczep.
+
 ### Pchnięcia bronią drzewcową
 
 <Opisz, które zakończenia broni drzewcowej mogą punktować oraz co uznaje się za osadzone lub skuteczne pchnięcie.>
@@ -328,6 +330,14 @@ Kolczuga używana jako główna lub jedyna ochrona tyłu kolana, dłoni, krocza 
 
 Sędziowie dobierają karę do sytuacji, uwzględniając przebieg i skutki działania. Niebezpieczne działanie przerywają niezależnie od tego, czy doszło do trafienia. Zawodnik nie może kontynuować ataku po komendzie „Stop”.
 
+Wyjątkowo brutalne zachowania ukierunkowane na zranienie przeciwnika podlegają karze. Ograniczenia uzgodnione przed walką ze względu na stan zdrowia zawodnika obowiązują obu walczących.
+
+**[Do dalszej dyskusji]** Ustalić, czy powtarzające się ataki w krocze są przewinieniem. Jeśli krocze jest dozwolonym celem, samo celowanie w tę strefę nie powinno być zakazane.
+
+### Zwarcie i parter
+
+Duszenie jest zakazane. Kopnięcia i uderzenia w miejsca nieosłonięte płytą są zakazane; w miejsca osłonięte płytą są dozwolone. **[Do dalszej dyskusji]** Ustalić, czy dźwignie są dozwolone. Jeśli tak, zawodnik może się poddać przez odklepanie, a sędzia może według własnej oceny przyznać punkt za założoną dźwignię, zanim spowoduje ból lub uraz.
+
 ### Opuszczenie szranek
 
 Zawodnik opuszcza szranki, gdy całym ciałem znajdzie się poza ich granicą. Wtedy walka zostaje przerwana i przeciwnik otrzymuje 3 punkty. Oparcie o szranki lub upadek pod nimi nie przerywa walki.
@@ -353,3 +363,5 @@ Utrata hełmu kończy wymianę i przyznaje przeciwnikowi 3 punkty. Przed wznowie
 Utrata rękawicy lub niekrytycznej osłony, gdy miejsce nadal chroni kolczuga, nie przerywa walki i jest ignorowana. **[Do dalszej dyskusji]** Rozważyć, czy zakazać celowego zdejmowania rękawicy.
 
 Sędzia przerywa walkę, jeśli uszkodzenie lub utrata wyposażenia stwarza bezpośrednie zagrożenie albo zawodnik traci wymaganą ochronę szyi. Samo odsłonięcie strefy trafień nie wymaga przerwania walki.
+
+Jeśli uszkodzenie uzbrojenia wymaga naprawy, zawodnik ma na nią minutę. Jeśli nie naprawi go w tym czasie, przeciwnik wygrywa.
