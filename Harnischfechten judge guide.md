@@ -176,6 +176,16 @@ Kolczuga używana jako główna lub jedyna ochrona tyłu kolana, dłoni, krocza 
 
 ## Punktacja
 
+Punktowane działanie musi być celowe, kontrolowane i wykonane właściwą częścią broni. Muśnięcie, przypadkowy kontakt ani samo dotknięcie bez skutecznego działania nie zdobywa punktów. Pchnięcie musi być osadzone; sędziowie oceniają je według rzeczywistego toru i warstw ochrony w miejscu trafienia.
+
+Liczba punktów odzwierciedla ciężkość obrażeń, jakie działanie mogłoby zadać przy uwzględnieniu faktycznych warstw ochrony: 1 punkt za ranę lekką, 2 za ranę ciężką lub utrudniającą dalszą walkę, 3 za ranę bezpośrednio zagrażającą życiu albo śmiertelną. Szczegółowe kryteria oceny opisują podsekcje dotyczące poszczególnych rodzajów działań.
+
+Poddanie, skuteczny rzut lub uzyskanie dominującej kontroli przyznaje przeciwnikowi 3 punkty.
+
+Przy jednoczesnym trafieniu obaj zawodnicy otrzymują punkty odpowiednie do ran zadanych przeciwnikowi. Po trafieniu walka zostaje przerwana; późniejsze trafienia nie są liczone.
+
+Zwycięża zawodnik, który pierwszy zdobędzie 3 punkty albo ma ich więcej po upływie limitu czasu. Przy remisie walka jest przedłużana do chwili, gdy jeden zawodnik uzyska przewagę punktową.
+
 <Opisz ogólne kryteria punktowanego działania, w tym prawidłowy kontakt, kontrolę, umiejscowienie oraz to, czy działanie musi być wyraźnie wykonane lub osadzone.>
 
 <Opisz, jak sędziowie ustalają liczbę punktów na podstawie działania, trafionego miejsca i zbroi w miejscu kontaktu.>
