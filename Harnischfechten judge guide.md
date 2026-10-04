@@ -194,8 +194,20 @@ O ile szczegółowa zasada nie stanowi inaczej, punktowane trafienia zakładają
 
 Trafienia w kryzę nie punktują niezależnie od użytej broni: kryza jest najmocniejszą częścią zbroi, osłoniętą najmocniejszą kolczugą, a odstęp od szyi tworzy pułapkę na sztych; pod kryzą znajduje się dodatkowo kołnierz kolczy.
 
-Pchnięcie w szyję punktuje wyłącznie wtedy, gdy jest wykonane oburącz i z dobrą postawą.
+Pchnięcie w szyję punktuje wyłącznie wtedy, gdy jest wykonane oburącz i z dobrą strukturą.
+[Do dalszej dyskusji] Czy traktować szyję osobno, czy traktować szczękę osobno (pchnięcia pod kryzę)
 
+Uderzenie rękawicą, tarczą, hełmem, kopnięcia są dozwolone ale nie punktowane.
+
+<Opisz, czy i w jakich warunkach uderzenia rękawicą mogą być punktowane.>
+
+<Opisz, czy i w jakich warunkach uderzenia tarczą mogą być punktowane.>
+
+<Opisz, czy i w jakich warunkach uderzenia hełmem mogą być punktowane.>
+
+<Opisz, czy i w jakich warunkach uderzenia jelcem miecza mogą być punktowane.>
+
+<Opisz, czy i w jakich warunkach uderzenia głowicą miecza mogą być punktowane.>
 
 <Opisz ogólne kryteria punktowanego działania, w tym prawidłowy kontakt, kontrolę, umiejscowienie oraz to, czy działanie musi być wyraźnie wykonane lub osadzone.>
 
@@ -234,10 +246,10 @@ Pchnięcie w szyję punktuje wyłącznie wtedy, gdy jest wykonane oburącz i z d
 ### Pchnięcia bronią drzewcową
 
 - [Do dalszej dyskusji][1p] Trafienie przeciwnika rzuconą bronią drzewcową, używaną jak oszczep.
-- [Do dalszej dyskusji][1p] Mocne pchnięcie jedną ręką.
+- [Do dalszej dyskusji][1p] Mocne pchnięcie jedną ręką przy solidnej strukturze
 - [1p] Szybkie pchnięcie oburącz bez nasadzenia.
 - [2p] Pchnięcie oburącz z nasadzeniem i solidną strukturą.
-- [3p] Pchnięcie oburącz zadane z pozycji stojącej leżącemu przeciwnikowi, przy zachowaniu solidnej struktury.
+- [3p] Pchnięcie oburącz zadane z pozycji stojącej leżącemu przeciwnikowi, przy zachowaniu solidnej struktury i użyciu masy ciała.
 
 <Opisz, które zakończenia broni drzewcowej mogą punktować oraz co uznaje się za osadzone lub skuteczne pchnięcie.>
 
@@ -257,11 +269,11 @@ Pchnięcie w szyję punktuje wyłącznie wtedy, gdy jest wykonane oburącz i z d
 
 ### Uderzenia bronią drzewcową
 
-- [1p] Mocne, bezpośrednie trafienie ostrzem, dziobem lub młotem, którego przeciwnik nie obronił.
-- [Niedozwolone] Trafianie w kręgosłup; zaleca się celować obok niego.
+- [Niedozwolone] Mocne trafianie w kręgosłup lub krocze zaleca się celować obok niego.
 - [0p] Uderzenie drzewcem.
 - [0p] Samo zahaczenie lub pociągnięcie przeciwnika hakiem.
-- [2p] Nasadzone uderzenie młotem przy solidnej strukturze ciała.
+- [1p] Mocne, bezpośrednie (nie bronione) trafienie młotem w hełm
+- [2p] Mocne, bezpośrednie (nie bronione) trafienie ostrzem, dziobem lub młotem w kolczugę
 
 <Opisz, które głowice lub powierzchnie broni drzewcowej mogą punktować oraz czy kontakt drzewcem może być punktowany.>
 
@@ -276,11 +288,12 @@ Pchnięcie w szyję punktuje wyłącznie wtedy, gdy jest wykonane oburącz i z d
 ### Pchnięcia mieczem
 
 - [Do dalszej dyskusji][1p] Trafienie przeciwnika rzuconym mieczem, użytym jak oszczep.
-- [1p] Szybkie pchnięcie, także półmieczem, w niekrytyczne miejsce, bez nasadzenia, przy zachowaniu struktury.
-- [2p] Pchnięcie, także półmieczem, z nasadzeniem i solidną strukturą.
-- [3p] Pchnięcie oburącz, także półmieczem, zadane z pozycji stojącej leżącemu przeciwnikowi, przy zachowaniu solidnej struktury.
-- [0p] Pchnięcie mieczem w kryzę.
-- Sędziowie oceniają rzeczywisty tor pchnięcia i warstwy na jego drodze.
+- [Do dalszej dyskusji][1p] Mocne pchnięcie jedną ręką przy solidnej strukturze
+- [Do dalszej dyskusji][1p] Pchnięcie klasycznym chwytem przy solidnej strukturze
+- [0p] Pchnięcie chwytem mordschlag
+- [1p] Szybkie pchnięcie półmieczem
+- [2p] Pchnięcie półmieczem, z nasadzeniem i solidną strukturą.
+- [3p] Pchnięcie półmieczem, zadane z pozycji stojącej leżącemu przeciwnikowi, przy zachowaniu solidnej struktury i użyciu masy ciała.
 
 <Opisz, w które miejsca można punktować pchnięciem mieczem oraz co uznaje się za osadzone pchnięcie.>
 
@@ -288,21 +301,12 @@ Pchnięcie w szyję punktuje wyłącznie wtedy, gdy jest wykonane oburącz i z d
 
 ### Uderzenia mieczem
 
-- [Do dalszej dyskusji] Referencje różnią się co do cięć w kolczugę.
-- [Do dalszej dyskusji] Czy mordschlag jelcem może punktować?
-- [Do dalszej dyskusji] Czy uderzenie głowicą może punktować?
-- [Do dalszej dyskusji] Ustalić, czy cięcia mieczem w miejsca nieosłonięte płytą są dozwolone.
-- [Do dalszej dyskusji] Ustalić, czy uderzenia mieczem w miejsca nieosłonięte płytą są dozwolone.
-- [Do dalszej dyskusji][1p] Uderzenie jelcem.
-- [Do dalszej dyskusji][1p] Uderzenie głowicą.
-- [Do dalszej dyskusji][2p] Mordschlag jelcem.
-- [Do dalszej dyskusji] Chwyt ostrza i wyrwanie miecza przez przeciwnika: czy punktuje jako trafienie w dłoń?
-- [Do dalszej dyskusji] Chwyt ostrza i przesunięcie miecza przez przeciwnika: czy punktuje jako trafienie w dłoń?
-- [Do dalszej dyskusji][0p] Cięcie zatrzymane przez kolczugę.
-- [0p] Uderzenie płazem.
-- [1p] Skuteczne cięcie ostrzem.
-- [2p] Nasadzone cięcie ostrzem przy solidnej strukturze ciała.
-- [3p] Nasadzone cięcie ostrzem zadane z pozycji stojącej leżącemu przeciwnikowi, przy zachowaniu solidnej struktury ciała.
+- [Do dalszej dyskusji][-1p] Chwyt ostrza przeciwnika i ciągnięcie za niego, kiedy go solidnie trzyma
+- [Do dalszej dyskusji][Zakazane] Uderzenie jelcem w półmieczu
+- [Do dalszej dyskusji][Zakazane] Uderzenie mordschlag jelcem
+- [Do dalszej dyskusji][0p] Uderzenie głowicą w półmieczu
+- [Do dalszej dyskusji][1p] Uderzenie mordschlag głowicą
+- [0p] Cięcie ostrzem.
 
 <Opisz, czy cięcia, uderzenia głowicą lub jelcem, mordhau i inne działania mieczem mogą punktować oraz przeciwko jakiej zbroi.>
 
@@ -314,13 +318,12 @@ Pchnięcie w szyję punktuje wyłącznie wtedy, gdy jest wykonane oburącz i z d
 
 ### Pchnięcia puginałem
 
-- [Do dalszej dyskusji] Referencje różnią się co do limitu punktów za puginał; propozycja — maksymalnie 2 punkty.
+- [0p] Pchnięcie puginałem jedną ręką w kolczugę
+- [1p] Pchnięcie puginałem jedną ręką w wnętrze dłoni, mankiet lub miejsce osłonięte tekstyliami.
+- [1p] Pchnięcie jedną ręką z przyłożeniem masy ciała.
+- [1p] Pchnięcie oburącz z nasadzeniem i solidną strukturą.
+- [3p] Pchnięcie oburącz, zadane leżącemu przeciwnikowi, przy zachowaniu solidnej struktury i użyciu masy ciała.
 - [Do dalszej dyskusji][3p] Przyłożenie dłoni do zasłony i jednoczesne przyłożenie puginału jako sygnał gotowości do jej otwarcia.
-- [0p] Pchnięcie puginałem jedną ręką.
-- [0p] Pchnięcie puginałem oburącz w kryzę kolczą.
-- [1p] Szybkie pchnięcie oburącz bez nasadzenia, przy zachowaniu struktury.
-- [2p] Pchnięcie oburącz z nasadzeniem i solidną strukturą.
-- [3p] Brak — według propozycji puginał nie zdobywa 3 punktów.
 
 <Opisz, które otwarcia można punktować pchnięciem puginałem oraz co uznaje się za osadzone pchnięcie.>
 
@@ -334,29 +337,8 @@ Pchnięcie w szyję punktuje wyłącznie wtedy, gdy jest wykonane oburącz i z d
 
 <Opisz, czy pchnięcia puginałem punktują w każdej pozycji, czy obowiązują odrębne zasady dla walki w stójce i w parterze.>
 
-### Uderzenia puginałem
-
-- [0p] Uderzenie puginałem jedną ręką.
-- [0p] Cięcie puginałem jedną ręką.
-- [0p] Uderzenie lub cięcie puginałem oburącz; punktowane są wyłącznie pchnięcia oburącz.
-- [0p] Inne działanie puginałem poza pchnięciem oburącz.
-
 <Opisz, czy cięcia lub inne działania puginałem mogą punktować oraz jakiego zaangażowania i kontroli wymagają.>
 
-### Uderzenia w zwarciu
-
-Uderzenie rękawicą w miejsce nieosłonięte płytą jest niedozwolone. Uderzenie tarczą w miejsce nieosłonięte płytą jest niedozwolone. Uderzenie hełmem w miejsce nieosłonięte płytą jest niedozwolone. Uderzenie tarczą z rozpędu jest niedozwolone. Uderzenie rękawicą w miejsce osłonięte płytą nie punktuje. Uderzenie hełmem w miejsce osłonięte płytą nie punktuje. Pchnięcie tarczą nie punktuje. Napór tarczą nie punktuje. Uderzenie tarczą w płytę nie punktuje.
-- Uderzenia jelcem i głowicą miecza podlegają zasadom z podsekcji „Uderzenia mieczem”; zwarcie samo w sobie nie zmienia ich punktacji.
-
-<Opisz, czy i w jakich warunkach uderzenia rękawicą mogą być punktowane.>
-
-<Opisz, czy i w jakich warunkach uderzenia tarczą mogą być punktowane.>
-
-<Opisz, czy i w jakich warunkach uderzenia hełmem mogą być punktowane.>
-
-<Opisz, czy i w jakich warunkach uderzenia jelcem miecza mogą być punktowane.>
-
-<Opisz, czy i w jakich warunkach uderzenia głowicą miecza mogą być punktowane.>
 
 ## Kary
 
