@@ -180,11 +180,15 @@ Punktowane działanie musi być celowe, kontrolowane i wykonane właściwą czę
 
 Liczba punktów odzwierciedla ciężkość obrażeń, jakie działanie mogłoby zadać przy uwzględnieniu faktycznych warstw ochrony: 1 punkt za ranę lekką, 2 za ranę ciężką lub utrudniającą dalszą walkę, 3 za ranę bezpośrednio zagrażającą życiu albo śmiertelną. Szczegółowe kryteria oceny opisują podsekcje dotyczące poszczególnych rodzajów działań.
 
-Poddanie, skuteczny rzut lub uzyskanie dominującej kontroli przyznaje przeciwnikowi 3 punkty.
+Poddanie przyznaje przeciwnikowi 3 punkty. 
+
+Samo rozbrojenie, rzut ani uzyskanie dominującej kontroli nie przyznają punktów.
 
 Przy jednoczesnym trafieniu obaj zawodnicy otrzymują punkty odpowiednie do ran zadanych przeciwnikowi. Po trafieniu walka zostaje przerwana; późniejsze trafienia nie są liczone.
 
-Zwycięża zawodnik, który pierwszy zdobędzie 3 punkty albo ma ich więcej po upływie limitu czasu. Przy remisie walka jest przedłużana do chwili, gdy jeden zawodnik uzyska przewagę punktową.
+Walka trwa 3 minuty. Zwycięża zawodnik, który pierwszy zdobędzie 3 punkty albo ma ich więcej po upływie limitu czasu. Przy remisie walka jest przedłużana do chwili, gdy jeden zawodnik uzyska przewagę punktową.
+
+Sędziowie nie przyznają punktu za trafienie, którego nie są pewni.
 
 <Opisz ogólne kryteria punktowanego działania, w tym prawidłowy kontakt, kontrolę, umiejscowienie oraz to, czy działanie musi być wyraźnie wykonane lub osadzone.>
 
