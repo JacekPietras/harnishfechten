@@ -1,5 +1,7 @@
 # Przewodnik sędziego Harnischfechten
 
+Dokument opisuje system punktowania i przebieg pojedynku; nie obejmuje ceremonii ani przebiegu turnieju.
+
 ## Procedura sędziowania
 
 <Opisz ilu sędziów obserwuje walkę, jak komunikują decyzje oraz jak rozstrzygane są różnice zdań i sytuacje niejasne.>
@@ -58,7 +60,7 @@ Sędzia natychmiast przerywa walkę w razie kontuzji lub zagrożenia zdrowia. Se
 
 Broń przed walką sprawdzają sędziowie. Broń musi spełniać wymagania regulaminu. Broń wymieniona, naprawiona lub zmodyfikowana po kontroli wymaga ponownego sprawdzenia.
 
-Utrata jakiejkolwiek broni ofensywnej nie przerywa walki. Zawodnik może podnieść własną broń lub broń przeciwnika, odebrać ją przeciwnikowi albo dobyć jego broń boczną. Walka nie jest przerywana, aby umożliwić podniesienie broni.
+Upuszczenie broni nie przerywa walki. Jeśli broń pęknie, a zawodnik nadal ją trzyma, sędzia przerywa walkę. Zawodnik może podnieść własną broń lub broń przeciwnika, odebrać ją przeciwnikowi albo dobyć jego broń boczną.
 
 Po przerwaniu walki z powodu przyznania punktu zawodnicy odzyskują broń. Po przerwaniu nierozstrzygniętej walki broni się nie podnosi.
 
@@ -106,7 +108,7 @@ Siatkowa maska szermiercza ani perforowana zasłona nie osłania twarzy na potrz
 
 ### Ochrona szyi
 
-Wymagany jest kołnierz kolczy. Zaleca się noszenie go pod napierśnikiem, tak by nie odsłaniał szyi podczas walki.
+Wymagana jest ochrona szyi kołnierzem kolczym sięgającym pod szczękę i osłaniającym całą krtań. Zaleca się noszenie go pod napierśnikiem, tak by nie odsłaniał szyi podczas walki. Jeśli great bascinet jest na stałe przymocowany paskami do kirysu, kołnierz kolczy jest zalecany, ale nieobowiązkowy.
 
 ### Ochrona tułowia
 
@@ -322,17 +324,23 @@ Kolczuga używana jako główna lub jedyna ochrona tyłu kolana, dłoni, krocza 
 
 <Opisz, co dzieje się, gdy zawodnik opuści pole walki lub zostanie poza nie wypchnięty, w tym różnicę między przypadkowym wyjściem a celowym unikaniem walki.>
 
+### Zasady ogólne
+
+Sędziowie dobierają karę do sytuacji, uwzględniając przebieg i skutki działania. Niebezpieczne działanie przerywają niezależnie od tego, czy doszło do trafienia. Zawodnik nie może kontynuować ataku po komendzie „Stop”.
+
+### Opuszczenie szranek
+
+Zawodnik opuszcza szranki, gdy całym ciałem znajdzie się poza ich granicą. Wtedy walka zostaje przerwana i przeciwnik otrzymuje 3 punkty. Oparcie o szranki lub upadek pod nimi nie przerywa walki.
+
 ### Utrata hełmu
 
 <Opisz, czy utrata hełmu lub otwarcie zasłony powoduje natychmiastowe przerwanie walki oraz jakie są dalsze możliwości: naprawa, wznowienie, kara albo rozstrzygnięcie pojedynku.>
 
+Utrata hełmu kończy wymianę i przyznaje przeciwnikowi 3 punkty. Przed wznowieniem walki hełm musi zostać poprawiony i zabezpieczony. Próba celowego zdjęcia hełmu lub otwarcia zasłony przeciwnika jest przewinieniem. Dozwolone jest przyłożenie dłoni do zasłony i jednoczesne przyłożenie do niej puginału jako sygnał gotowości do jej otwarcia; ta akcja jest punktowana.
+
 <Opisz, jak sędziowie interpretują położenie ręki na zasłonie i przyłożenie do niej broni, gdy sygnalizuje to możliwość jej otwarcia, ale zasłona pozostaje zamknięta ze względów bezpieczeństwa. Ustal, czy takie działanie może być uznane za kontrolę, groźbę lub wymuszenie poddania, oraz jak odróżnia się je od faktycznego otwarcia zasłony lub niebezpiecznego nacisku.>
 
-### Utrata rękawicy
-
 <Opisz, czy utrata rękawicy powoduje natychmiastowe przerwanie walki, karę, przegraną lub przerwę na naprawę.>
-
-### Utrata ochrony barku
 
 <Opisz, jak oceniać utratę ochrony barku w zależności od tego, czy miejsce nadal chroni inna warstwa, na przykład kolczuga, oraz czy sytuacja wymaga przerwania lub wznowienia walki.>
 
@@ -341,3 +349,7 @@ Kolczuga używana jako główna lub jedyna ochrona tyłu kolana, dłoni, krocza 
 <Opisz, jak sędziowie postępują z uszkodzonym lub utraconym wyposażeniem, które nie stwarza bezpośredniego zagrożenia.>
 
 <Opisz, ile czasu zawodnik ma na naprawę lub wymianę wyposażenia przed wznowieniem walki albo rozstrzygnięciem jej wyniku.>
+
+Utrata rękawicy lub niekrytycznej osłony, gdy miejsce nadal chroni kolczuga, nie przerywa walki i jest ignorowana. **[Do dalszej dyskusji]** Rozważyć, czy zakazać celowego zdejmowania rękawicy.
+
+Sędzia przerywa walkę, jeśli uszkodzenie lub utrata wyposażenia stwarza bezpośrednie zagrożenie albo zawodnik traci wymaganą ochronę szyi. Samo odsłonięcie strefy trafień nie wymaga przerwania walki.
