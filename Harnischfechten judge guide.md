@@ -192,7 +192,9 @@ Sędziowie nie przyznają punktu za trafienie, którego nie są pewni.
 
 O ile szczegółowa zasada nie stanowi inaczej, punktowane trafienia zakładają miejsce chronione kolczugą lub tekstyliami. Pchnięcia, cięcia i uderzenia trafiające w płytę lub zbroję zbrojnikową nie zadają obrażeń ani nie punktują. Jeśli broń trafi w otwarcie, sędziowie oceniają rzeczywisty kontakt i ochronę w tym miejscu.
 
-Pchnięcie w szyję punktuje wyłącznie wtedy, gdy jest wykonane oburącz i z dobrą postawą. Pchnięcia w kryzę nie punktują niezależnie od użytej broni.
+Trafienia w kryzę nie punktują niezależnie od użytej broni: kryza jest najmocniejszą częścią zbroi, osłoniętą najmocniejszą kolczugą, a odstęp od szyi tworzy pułapkę na sztych; pod kryzą znajduje się dodatkowo kołnierz kolczy.
+
+Pchnięcie w szyję punktuje wyłącznie wtedy, gdy jest wykonane oburącz i z dobrą postawą.
 
 
 <Opisz ogólne kryteria punktowanego działania, w tym prawidłowy kontakt, kontrolę, umiejscowienie oraz to, czy działanie musi być wyraźnie wykonane lub osadzone.>
