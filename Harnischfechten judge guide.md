@@ -154,7 +154,7 @@ Sztychy zawinięte przed hartowaniem są niedopuszczone, ponieważ mogą pękać
 
 ### Puginał
 
-Dopuszcza się symulatory puginałów drewniane lub syntetyczne.
+Puginał jest opcjonalny, ale zalecany. Dopuszcza się drewniane lub syntetyczne symulatory.
 
 **[Do dalszej dyskusji]** Ustalić, czy dopuszczać określone typy puginałów metalowych.
 
