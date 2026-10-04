@@ -40,6 +40,32 @@
 
 <Opisz, kiedy sędziowie mogą rozdzielić zawodników podczas zapasów lub walki w parterze, na przykład po określonym czasie bez akcji ofensywnej.>
 
+Walkę obserwuje trzech sędziów. Jeden jest sędzią głównym, a dwaj sędziowie poboczni obserwują przypisanych im zawodników.
+
+Sędziowie podejmują decyzje o trafieniach. Zawodnik może zgłosić otrzymane trafienie, ale zgłoszenie nie przesądza o punktacji. Punkty przyznaje się zgodnie z obrażeniami zadanymi przez trafienie.
+
+Gdy sędziowie nie widzieli działania, nie mogą go ocenić albo są niezgodni, ostateczną decyzję podejmuje sędzia główny. W czasie turnieju decyzja sędziego głównego jest ostateczna i nie podlega dyskusji ani ponownemu rozpatrzeniu. Po turnieju można zgłosić ją jako propozycję doprecyzowania regulaminu.
+
+Przed walką i każdym wznowieniem sędzia główny wydaje komendę „Gotowi” i przez trzy sekundy czeka na zgłoszenie braku gotowości. Nie czeka na werbalne potwierdzenie zawodników. Następnie wydaje komendę „Start”. Walkę przerywa komenda „Stop”.
+
+Po przyznaniu punktów walka zostaje przerwana, a zawodnicy rozchodzą się na pozycje początkowe. Wznowienie następuje po komendach „Gotowi” i „Start”.
+
+Czas mierzy osoba wyznaczona, nigdy sędzia. Po upływie czasu informuje sędziego głównego słownie. Sposób zapisywania wyniku nie wymaga osobnej reguły.
+
+Na prośbę zawodnika walka zostaje natychmiast przerwana. Zawodnik może zasygnalizować poddanie słowami „poddaję się” lub „stop”, odklepaniem albo podniesieniem otwartej dłoni bez broni w stronę przeciwnika. Każdy czytelny sygnał poddania kończy wymianę. Poddanie samo nie kończy pojedynku, jeśli żaden zawodnik nie zdobył wymaganej liczby punktów.
+
+Sędzia natychmiast przerywa walkę w razie kontuzji lub zagrożenia zdrowia. Sekundanci również mogą przerwać walkę, gdy zauważą bezpośrednie zagrożenie. Wznowić walkę może wyłącznie sędzia główny.
+
+Broń przed walką sprawdzają sędziowie. Broń musi spełniać wymagania regulaminu. Broń wymieniona, naprawiona lub zmodyfikowana po kontroli wymaga ponownego sprawdzenia.
+
+Utrata jakiejkolwiek broni ofensywnej nie przerywa walki. Zawodnik może podnieść własną broń lub broń przeciwnika, odebrać ją przeciwnikowi albo dobyć jego broń boczną. Walka nie jest przerywana, aby umożliwić podniesienie broni.
+
+Po przerwaniu walki z powodu przyznania punktu zawodnicy odzyskują broń. Po przerwaniu nierozstrzygniętej walki broni się nie podnosi.
+
+Sędzia nie rozdziela zawodników podczas zapasów ani walki w parterze.
+
+**[Do dalszej dyskusji]** Propozycja: wprowadzić limit czasu walki w parterze.
+
 ## Zbroja
 
 <Opisz wymagane wyposażenie ochronne oraz kto i kiedy sprawdza je przed walką.>
