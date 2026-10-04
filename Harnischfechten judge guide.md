@@ -90,6 +90,58 @@ Sędzia nie rozdziela zawodników podczas zapasów ani walki w parterze.
 
 <Opisz, jak sędziowie postępują, gdy elementy zbroi przesuną się podczas walki, oraz czy uwzględniają indywidualne informacje o zbroi zawodnika.>
 
+<Opisz, że w przypadku niestandardowej historycznej ochrony pod przeszzywanica lub kolczuga ktora zwieksza jego pole niepunktowane, zawodnik jest zobowiazany poinformowac sedziego przed turniejem>
+
+### Hełm
+
+- Hełm wielki jest dopuszczony.
+- Durszlak jest dopuszczony wyłącznie w głębokiej, historycznej formie.
+- Krata polska jest dopuszczona tylko z dodatkową nowoczesną siatką ochronną; cała osłonięta nią strefa twarzy jest punktowana.
+- Hełm z nosalem jest dopuszczony tylko z dodatkową nowoczesną siatką ochronną; cała osłonięta nią strefa twarzy jest punktowana.
+- Salada jest dopuszczona tylko wtedy, gdy zawiera maskę szermierczą.
+- Pasek mocujący hełm do napierśnika nie jest wymagany, ale jest zalecany.
+- Ruchoma zasłona musi być zabezpieczona przed otwarciem, a otwory hełmu muszą uniemożliwiać wejście sztychu.
+
+Twarz widoczna przez perforowaną zasłonę lub siatkową maskę szermierczą jest nieosłonięta i pozostaje strefą punktowaną; nie klasyfikuje się jej jak płyty hełmu.
+
+### Ochrona szyi
+
+Zaleca się noszenie kołnierza kolczego pod napierśnikiem. Kolczuga osłaniająca szyję musi być zamocowana tak, by nie odsłaniała jej podczas walki.
+
+### Ochrona tułowia
+
+Osłona tułowia, w tym szorca kolcza i ochrona pleców, jest opcjonalna, ale zalecana. Brak osłony płytowej zwiększa strefę trafień w miejscu, którego płyta nie chroni. Jeśli zawodnik nosi osłonę tułowia, kolczuga pod nią powinna zakrywać miejsca, których osłona nie chroni.
+
+**[Do dalszej dyskusji]** Czy dopuszczać sportowe płaty Wisby jako osłonę tułowia i jakie dodatkowe warstwy ochronne powinny im towarzyszyć?
+
+### Tarcza
+
+Tarcza jest dozwolona i uznawana za ochronę.
+
+### Ochrona kończyn
+
+Obowiązkowe są rękawice oraz osłony łokci i kolan. Osłony ramion, przedramion, ud i goleni są opcjonalne, ale zalecane. Brak osłony płytowej zwiększa strefę trafień w miejscu, którego płyta nie chroni.
+
+**[Do dalszej dyskusji]** Ustalić, czy przy braku osłony płytowej wymagana jest kolczuga na zgięciu łokcia lub kolana, wewnętrznej stronie dłoni, stopie, przedramieniu, udzie, ramieniu i goleni.
+
+**[Do dalszej dyskusji]** Czy płytowy naramiennik jest wymagany?
+
+### Ochrona krocza
+
+Ochrona krocza jest obowiązkowa. Dopuszczony i zalecany jest nowoczesny suspensor sportowy; uznawane są również historyczne osłony płytowe.
+
+### Kontrola i dopasowanie
+
+Zbroja musi być sprawna i stabilnie zamocowana. Przed pierwszą walką zawodnika organizator lub wyznaczony kontroler sprawdza kompletność, stan, dopasowanie i mocowanie wyposażenia. Jeśli wymaga ono naprawy lub uzupełnienia, zawodnik może — za zgodą sędziego — rozwiązać problem przed rozpoczęciem swojej walki. Zmianę lub naprawę po kontroli należy zgłosić do ponownego sprawdzenia przed kolejną walką.
+
+### Widoczność ochrony
+
+Jupony, waffenrocki i inne tekstylia ozdobne zakrywające strefy trafień są zabronione, ponieważ utrudniają sędziom ocenę kontaktu. Warstwy ochronne mogą być zakryte tylko wtedy, gdy nie uniemożliwia to sędziom ustalenia miejsca trafienia i rodzaju ochrony.
+
+Zawodnik zgłasza sędziemu przed turniejem każdą dodatkową, historyczną warstwę ochronną pod przeszywanicą lub kolczugą, która zwiększa obszar niepunktowany. Nie musi informować o niej przeciwnika; sędziowie muszą znać tę informację przed walką. Nowoczesne wkładki ochronne są opcjonalne i nie zwiększają obszaru niepunktowanego.
+
+Kolczuga używana jako główna lub jedyna ochrona tyłu kolana, dłoni, krocza albo stopy musi być widoczna dla sędziów przez cały czas walki.
+
 ## Punktacja
 
 <Opisz ogólne kryteria punktowanego działania, w tym prawidłowy kontakt, kontrolę, umiejscowienie oraz to, czy działanie musi być wyraźnie wykonane lub osadzone.>
